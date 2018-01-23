@@ -1,0 +1,8 @@
+﻿  stdafx.cpp
+c:\users\puzzle yao\desktop\myconwaygame\myconwaygame\stdafx.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\users\puzzle yao\desktop\myconwaygame\myconwaygame\stdafx.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\users\puzzle yao\desktop\myconwaygame\myconwaygame\targetver.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  MyConwayGame.cpp
+c:\users\puzzle yao\desktop\myconwaygame\myconwaygame\myconwaygame.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  MyConwayGame.vcxproj -> C:\Users\Puzzle Yao\Desktop\MyConwayGame\Debug\MyConwayGame.exe
+  MyConwayGame.vcxproj -> C:\Users\Puzzle Yao\Desktop\MyConwayGame\Debug\MyConwayGame.pdb (Partial PDB)
