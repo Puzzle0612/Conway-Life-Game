@@ -4,4 +4,4 @@
 
 规则要求见Conway's Game of Life.docx  
 
-程序说明见康威生命游戏实验报告
+程序说明见康威生命游戏实验报告.pdf
